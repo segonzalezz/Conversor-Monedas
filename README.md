@@ -9,6 +9,7 @@ Vista_Menu.java: Es el menú de la aplicación que permite la interacción del u
 ### Controlador (Controller):
 Gestiona la comunicación entre el modelo y la vista.
 Controlador_Moneda.java: Controla la lógica de la conversión de monedas, interactuando con el servicio y actualizando la vista.
-### Service:
+### Service (Service):
 Contiene la lógica principal de la conversión de monedas.
-Moneda_Servicio.java: Implementa los cálculos necesarios para convertir las monedas entre diferentes divisas.
+## Moneda_Servicio.java: 
+Implementa los cálculos necesarios para convertir las monedas entre diferentes divisas.
