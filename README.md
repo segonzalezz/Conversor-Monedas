@@ -1,4 +1,4 @@
-#### Estructura del Proyecto MVC
+### Estructura del Proyecto MVC
 
 ### Modelo (Model):
 Encargado de gestionar los datos y la lógica del negocio.
