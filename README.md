@@ -1,5 +1,5 @@
-Estructura del Proyecto
-El proyecto sigue la arquitectura MVC:
+#### Estructura del Proyecto MVC
+
 ### Modelo (Model):
 Encargado de gestionar los datos y la lógica del negocio.
 MonedaDTO.java: Representa los datos y atributos de la moneda.
